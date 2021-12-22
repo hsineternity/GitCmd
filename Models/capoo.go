@@ -1,4 +1,4 @@
-package Models
+package models
 
 var capoo = "I'm Capoo"
 

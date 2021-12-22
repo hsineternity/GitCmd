@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/hsineternity/GitCmd/Models"
+	"github.com/hsineternity/GitCmd/models"
 )
 
 func main() {
-	fmt.Println(Models.GetCapoo)
+	fmt.Println(models.GetCapoo())
 }
