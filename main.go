@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(models.GetCapoo())
+	fmt.Println(models.GetAuthor())
 }
