@@ -9,4 +9,5 @@ import (
 func main() {
 	fmt.Println(models.GetAuthor())
 	fmt.Println(models.GetDog())
+	fmt.Println(models.GetCat())
 }
