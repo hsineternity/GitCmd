@@ -8,5 +8,4 @@ import (
 
 func main() {
 	fmt.Println(models.GetAuthor())
-	fmt.Println(models.GetCat())
 }
